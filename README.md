@@ -36,7 +36,7 @@ This is the week-by-week plan:
 | | 2/2| |  | O-Auth  | |  |
 |2 | 2/7| Groupware |  |  |  | |
 | | 2/9|  |  |  |  | |
-|3 | 2/14| Communities and Forums | Reputation |  |   |
+|3 | 2/14| Communities and Forums | Reputation |  | Raz Schwartz (tentative)  |
 |4 | 2/16| Collaborative Systems | Motivation | |   |
 | | 2/21|  | | Connective Media APIs | | | 
 |5 | 2/23|  Social Awareness Streams| |  |  |  |
