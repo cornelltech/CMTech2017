@@ -36,8 +36,8 @@ This is the week-by-week plan:
 | | 2/2| |  | O-Auth  | |  |
 |2 | 2/7| Groupware |  |  |  | |
 | | 2/9|  |  |  |  | |
-|3 | 2/14| Communities and Forums | Reputation |  | Raz Schwartz (tentative)  |
-|4 | 2/16| Collaborative Systems | Motivation | |   |
+|3 | 2/14| Communities and Forums | Reputation |  | Raz Schwartz (Occulus, tentative)  |
+|4 | 2/16| Collaborative Systems | Motivation | | Aaron Halfaker (Wikimedia)  |
 | | 2/21|  | | Connective Media APIs | | | 
 |5 | 2/23|  Social Awareness Streams| |  |  |  |
 | | 2/28| No class: CSCW 2018 | |  |  |  |
