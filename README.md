@@ -32,7 +32,7 @@ This is the week-by-week plan:
 | Week | Date | Title | Theory | Tech | Special Topic | Guest |
 |:-----|:-----|:------|:----------|:------|:-----------|:-------|
 |0 | 1/26|Intro to Everything | | | | |
-|1 | 1/31| 1-1 Communication Systems | Network Effects, Presence | O-Auth | | |
+|1 | 1/31| 1-1 Communication Systems | Network Effects, Presence | O-Auth | | [Leila Takayama](http://www.leilatakayama.org/wp/) (UCSC) |
 |1 | 2/2| |  |  |  |  |
 |2 | 2/7| Groupware |  |  |  |  |
 |2 | 2/9| |  |  |  |  |
