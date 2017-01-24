@@ -40,26 +40,26 @@ This is the week-by-week plan:
 |3 | 2/16| |  |  |  | Aaron Halfaker (Wikimedia) |
 |4 | 2/21| Collaborative Systems | Motivation | APIs 101 |   | |
 | | 2/23|  | |  | | | 
-| | 2/28| No class: CSCW 2018 | |  |  |  |
+| | 2/28| No class: CSCW 2017 | |  |  |  |
 |5 | 3/2|  Social Awareness Streams | Identity |  |  |  |
 | | 3/7|  | |   |  |  |
 |6 | 3/9| Anoymous Systems | Anonymity |  |  |  |
 | | 3/14| | |  |  |  |
-|7 | 3/16| Crowdsourcing | Using AMT |  |  | |
+|7 | 3/16| Crowdsourcing | | Using AMT  |  | |
 | | 3/21|  |  |  |  |   |
 |8 | 3/23| Social News | Filter Bubble |  | Measurements and Metrics |  |
 | | 3/28|  |  |  |  |   |
-| | 3/30|  |  |  |  |   |
+|9 | 3/30|  | Media sharing | Feedback | Copyright and content rights |   |
 | Spring Break |
-|10 | 4/11 | Media sharing | Feedback |  |   | Leland Rechis (Cornell Tech, YouNow) |
-| | 4/13|  | Assignment 2 presentations |  | Copyright and content rights |  |
-|11 | 4/18| Entertainment |  | iPyhton  | | Nir |  
-| | 4/20|  |  |  | Recommender Systems  |  |  
+| | 4/11 | Assignment 2 presentations |  |  |   |  |
+|10 | 4/13| Entertainment Systems |  | Jupyter | Recommender Systems | Xiao |
+|11 | 4/18|  |  |   | |  |  
+|12 | 4/20|  |  |  |   |  |  
 |12 | 4/25| Online to offline | Trust |   |  |  
 | | 4/27|  |  |  |  |  |
 |13 | 5/2| Sharing econonmy  |  |  | Monetization |  Judd Antin (Airbnb) |
-| | 5/4| Project presentations (1)  |   |  |   |  |
-|14 | 5/9| Project presentations (2)  |  |  |  |  | 
+| | 5/4| Project presentations (1 2)  |   |  |   |  |
+|14 | 5/9| No Class: CHI 2017  |  |  |  |  | 
 
 
 
