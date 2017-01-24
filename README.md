@@ -36,7 +36,7 @@ This is the week-by-week plan:
 |1 | 2/2| |  |  |  |  |
 |2 | 2/7| Groupware |  |  |  |  |
 |2 | 2/9| |  |  |  |  |
-|3 | 2/14| Communities and Forums | Reputation |  | | Raz Schwartz (Occulus)  |
+|3 | 2/14| Communities and Forums | Reputation |  | | Raz Schwartz (Oculus)  |
 |3 | 2/16| |  |  |  | Aaron Halfaker (Wikimedia) |
 |4 | 2/21| Collaborative Systems | Motivation | APIs 101 |   | |
 | | 2/23|  | |  | | | 
