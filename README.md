@@ -1,6 +1,6 @@
 
 # Connective Media Technologies
-Cornell Tech Connective Media Technologies Class, Spring 2017
+Cornell Tech Connective Media Systems and Technologies Class, Spring 2017
 
 INFO 5302<br/>
 Mor Naaman<br/>
@@ -32,24 +32,24 @@ This is the week-by-week plan:
 | Week | Date | Title | Theory | Tech | Special Topic | Guest |
 |:-----|:-----|:------|:----------|:------|:-----------|:-------|
 |0 | 1/26|Intro to Everything | | | | |
-|1 | 1/31|1-1 Communication Systems | Network Effects, Presence |  | | |
-| | 2/2| |  | O-Auth  | |  |
-|2 | 2/7| Groupware |  |  |  | |
-| | 2/9|  |  |  |  | |
-|3 | 2/14| Communities and Forums | Reputation |  | Raz Schwartz (Occulus, tentative)  |
-|4 | 2/16| Collaborative Systems | Motivation | | Aaron Halfaker (Wikimedia)  |
-| | 2/21|  | | Connective Media APIs | | | 
-|5 | 2/23|  Social Awareness Streams| |  |  |  |
+|1 | 1/31| 1-1 Communication Systems | Network Effects, Presence | O-Auth | | |
+|1 | 2/2| |  |  |  |  |
+|2 | 2/7| Groupware |  |  |  |  |
+|2 | 2/9| |  |  |  |  |
+|3 | 2/14| Communities and Forums | Reputation |  | Raz Schwartz (Occulus)  |
+|3 | 2/16| |  |  |  | Aaron Halfaker (Wikimedia) |
+|4 | 2/21| Collaborative Systems | Motivation | APIs 101 |   | |
+| | 2/23|  | |  | | | 
 | | 2/28| No class: CSCW 2018 | |  |  |  |
-| | 3/2| | |  |  |  |
-|6 | 3/7|  | |  Identity/ Systems |  |  |
-| | 3/9| | |  |  |  |
-|7 | 3/14| Anoymous Systems | Anonymity |  |  |  |
-| | 3/16|  |  |  |  | |
-|8 | 3/21| Crowdsourcing |  |  |  |   |
-| | 3/23|  |  | Crowdsourcing APIs |  | |  
-|9 | 3/28| Social News |  |  | Measurements and Metrics | Dan Robbins & Kale Smith (Nielsen) |
-| | 3/30|  |  | The Filter Bubble |   |  Justin Van Slembrouck & Michael Young (Digg) |
+|5 | 3/2|  Social Awareness Streams | Identity |  |  |  |
+| | 3/7|  | |   |  |  |
+|6 | 3/9| Anoymous Systems | Anonymity |  |  |  |
+| | 3/14| | |  |  |  |
+|7 | 3/16| Crowdsourcing | Using AMT |  |  | |
+| | 3/21|  |  |  |  |   |
+|8 | 3/23| Social News | Filter Bubble |  | Measurements and Metrics |  |
+| | 3/28|  |  |  |  |   |
+| | 3/30|  |  |  |  |   |
 | Spring Break |
 |10 | 4/11 | Media sharing | Feedback |  |   | Leland Rechis (Cornell Tech, YouNow) |
 | | 4/13|  | Assignment 2 presentations |  | Copyright and content rights |  |
