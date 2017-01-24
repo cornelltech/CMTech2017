@@ -35,7 +35,7 @@ This is the week-by-week plan:
 |1 | 1/31| 1-1 Communication Systems | Network Effects, Presence | O-Auth | | [Leila Takayama](http://www.leilatakayama.org/wp/) (UCSC) |
 |1 | 2/2| |  |  |  |  |
 |2 | 2/7| Groupware |  |  |  |  |
-|2 | 2/9| |  |  |  |  |
+|2 | 2/9| |  |  |  | [Mike Massimi](http://www.mikemassimi.com/) (Slack) |
 |3 | 2/14| Communities and Forums | Reputation |  | | Raz Schwartz (Oculus)  |
 |3 | 2/16| |  |  |  | Aaron Halfaker (Wikimedia) |
 |4 | 2/21| Collaborative Systems | Motivation | APIs 101 |   | |
