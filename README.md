@@ -36,8 +36,8 @@ This is the week-by-week plan:
 |1 | 2/2| |  |  |  |  |
 |2 | 2/7| Groupware |  |  |  |  |
 |2 | 2/9| |  |  |  | [Mike Massimi](http://www.mikemassimi.com/) (Slack) |
-|3 | 2/14| Communities and Forums | Reputation |  | | Raz Schwartz (Oculus)  |
-|3 | 2/16| |  |  |  | Aaron Halfaker (Wikimedia) |
+|3 | 2/14| Communities and Forums | Reputation |  | | [Raz Schwartz](http://razschwartz.net/) (Oculus)  |
+|3 | 2/16| |  |  |  | [Aaron Halfaker](http://www-users.cs.umn.edu/~halfak/) (Wikimedia) |
 |4 | 2/21| Collaborative Systems | Motivation | APIs 101 |   | |
 | | 2/23|  | |  | | | 
 | | 2/28| No class: CSCW 2017 | |  |  |  |
@@ -45,7 +45,7 @@ This is the week-by-week plan:
 | | 3/7|  | |   |  |  |
 |6 | 3/9| Anoymous Systems | Anonymity |  |  |  |
 | | 3/14| | |  |  |  |
-|7 | 3/16| Crowdsourcing | | Using AMT  |  | |
+|7 | 3/16| Crowdsourcing | | Using AMT  |  | Xiao |
 | | 3/21|  |  |  |  |   |
 |8 | 3/23| Social News | Filter Bubble |  | Measurements and Metrics |  |
 | | 3/28|  |  |  |  |   |
