@@ -36,7 +36,7 @@ This is the week-by-week plan:
 |1 | 2/2| |  |  |  |  |
 |2 | 2/7| Groupware |  |  |  |  |
 |2 | 2/9| |  |  |  |  |
-|3 | 2/14| Communities and Forums | Reputation |  | Raz Schwartz (Occulus)  |
+|3 | 2/14| Communities and Forums | Reputation |  | | Raz Schwartz (Occulus)  |
 |3 | 2/16| |  |  |  | Aaron Halfaker (Wikimedia) |
 |4 | 2/21| Collaborative Systems | Motivation | APIs 101 |   | |
 | | 2/23|  | |  | | | 
@@ -54,13 +54,12 @@ This is the week-by-week plan:
 | | 4/11 | Assignment 2 presentations |  |  |   |  |
 |10 | 4/13| Entertainment Systems |  | Jupyter | Recommender Systems | Xiao |
 |11 | 4/18|  |  |   | |  |  
-|12 | 4/20|  |  |  |   |  |  
-|12 | 4/25| Online to offline | Trust |   |  |  
-| | 4/27|  |  |  |  |  |
-|13 | 5/2| Sharing econonmy  |  |  | Monetization |  Judd Antin (Airbnb) |
-| | 5/4| Project presentations (1 2)  |   |  |   |  |
+|12 | 4/20| Sharing econonmy  | Trust |  |  Monetization | |  
+|12 | 4/25| |  |   |  |  
+| | 4/27| Civic Tech |  |  |  |  |
+|13 | 5/2| Project presentations (1) |  |  |  |  |
+| | 5/4| Project presentations (2)  |   |  |   |  |
 |14 | 5/9| No Class: CHI 2017  |  |  |  |  | 
-
 
 
 ## Class Requirements
@@ -97,7 +96,7 @@ Your grade breakdown (G for Group grade):
 
 Note: the average grade in this class is likely to be a B or B+. You will need to really stand out to get an A- or above. 
 
-M.Eng and MBA students may take the class for a pass-fail grade with prior approval. All the requirements for class would still stand. To get a passing grade, a student would need a C and above grade for each of the class components. 
+M.Eng and MBA students may take the class for a pass-fail grade with prior approval. All the requirements for class would still stand. To get a passing grade, a student would need a 70 and above grade for each of the class components. 
 
 
 ## Class Presentations
