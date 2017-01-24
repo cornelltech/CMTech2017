@@ -52,7 +52,7 @@ This is the week-by-week plan:
 |9 | 3/30|  | Media sharing | Feedback | Copyright and content rights |   |
 | Spring Break |
 | | 4/11 | Assignment 2 presentations |  |  |   |  |
-|10 | 4/13| Entertainment Systems |  | Jupyter | Recommender Systems | Xiao |
+|10 | 4/13| Entertainment Systems and VR |  | Jupyter | Recommender Systems | Xiao |
 |11 | 4/18|  |  |   | |  |  
 |12 | 4/20| Sharing econonmy  | Trust |  |  Monetization | |  
 |12 | 4/25| |  |   |  |  
