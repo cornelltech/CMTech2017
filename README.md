@@ -51,9 +51,9 @@ This is the week-by-week plan:
 | | 3/28|  |  |  |  |   |
 |9 | 3/30|  Media sharing | | Feedback | Recommender Systems |   |
 |XX Spring Break XX |
-| | 4/11|  |  |  |  |   |
+| | 4/11|  |  | Using Jupyter |  |  Xiao |
 |X | 4/13 | Assignment 2 presentations |  |  |   |  |
-|10 | 4/18| Live media |  | Jupyter | Copyright and content rights  | Xiao |
+|10 | 4/18| Live media |  |  | Copyright and content rights  | Leland Rechis |
 | | 4/20|  |  |   | | Funda Kivran-Swaine (Facebook Live) |  
 |11 | 4/25| Sharing econonmy  | Trust |  |  Monetization | |  
 | | 4/27| |  |   |  |  
