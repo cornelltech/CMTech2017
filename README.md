@@ -54,7 +54,7 @@ This is the week-by-week plan:
 | | 4/11|  |  |  |  |   |
 | | 4/13 | Assignment 2 presentations |  |  |   |  |
 |10 | 4/18| Live media |  | Jupyter | Copyright and content rights  | Xiao |
-| | 4/20|  |  |   | | Funda Kivran-Swaine (Facebook live) |  
+| | 4/20|  |  |   | | Funda Kivran-Swaine (Facebook Live) |  
 |11 | 4/25| Sharing econonmy  | Trust |  |  Monetization | |  
 | | 4/27| |  |   |  |  
 |12 | 5/2| Project presentations (1) |  |  |  |  |
