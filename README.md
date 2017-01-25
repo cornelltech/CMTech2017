@@ -33,14 +33,14 @@ This is the week-by-week plan:
 |:-----|:-----|:------|:----------|:------|:-----------|:-------|
 |0 | 1/26|Intro to Everything | | | | |
 |1 | 1/31| 1-1 Communication Systems | Network Effects, Presence | O-Auth | | [Leila Takayama](http://www.leilatakayama.org/wp/) (UCSC) |
-|1 | 2/2| |  |  |  |  |
+| | 2/2| |  |  |  |  |
 |2 | 2/7| Groupware |  |  |  |  |
-|2 | 2/9| |  |  |  | [Mike Massimi](http://www.mikemassimi.com/) (Slack) |
+| | 2/9| |  |  |  | [Mike Massimi](http://www.mikemassimi.com/) (Slack) |
 |3 | 2/14| Communities and Forums | Reputation |  | | [Raz Schwartz](http://razschwartz.net/) (Oculus)  |
-|3 | 2/16| |  |  |  | [Aaron Halfaker](http://www-users.cs.umn.edu/~halfak/) (Wikimedia) |
+| | 2/16| |  |  |  | [Aaron Halfaker](http://www-users.cs.umn.edu/~halfak/) (Wikimedia) |
 |4 | 2/21| Collaborative Systems | Motivation | APIs 101 |   | |
 | | 2/23|  | |  | | | 
-| | 2/28| No class: CSCW 2017 | |  |  |  |
+|X | 2/28| No class: CSCW 2017 | |  |  |  |
 |5 | 3/2|  Social Awareness Streams | Identity |  |  |  |
 | | 3/7|  | |   |  |  |
 |6 | 3/9| Anoymous Systems | Anonymity |  |  |  |
@@ -50,16 +50,16 @@ This is the week-by-week plan:
 |8 | 3/23| Social News | Filter Bubble |  | Measurements and Metrics |  |
 | | 3/28|  |  |  |  |   |
 |9 | 3/30|  | Media sharing | Feedback | Recommender Systems |   |
-| Spring Break |
+|XX Spring Break XX |
 | | 4/11|  |  |  |  |   |
-| | 4/13 | Assignment 2 presentations |  |  |   |  |
+|X | 4/13 | Assignment 2 presentations |  |  |   |  |
 |10 | 4/18| Live media |  | Jupyter | Copyright and content rights  | Xiao |
 | | 4/20|  |  |   | | Funda Kivran-Swaine (Facebook Live) |  
 |11 | 4/25| Sharing econonmy  | Trust |  |  Monetization | |  
 | | 4/27| |  |   |  |  
 |12 | 5/2| Project presentations (1) |  |  |  |  |
 | | 5/4| Project presentations (2)  |   |  |   |  |
-| | 5/9| No Class: CHI 2017  |  |  |  |  | 
+|X | 5/9| No Class: CHI 2017  |  |  |  |  | 
 
 ## Class Requirements
 
