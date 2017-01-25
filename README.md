@@ -51,16 +51,15 @@ This is the week-by-week plan:
 | | 3/28|  |  |  |  |   |
 |9 | 3/30|  | Media sharing | Feedback | Recommender Systems |   |
 | Spring Break |
-| | 4/11 | Assignment 2 presentations |  |  |   |  |
-|10 | 4/13| Broadcast media |  | Jupyter | Copyright and content rights  | Xiao |
-|11 | 4/18|  |  |   | |  |  
-|12 | 4/20| Sharing econonmy  | Trust |  |  Monetization | |  
-|12 | 4/25| |  |   |  |  
-| | 4/27| Civic Tech |  |  |  |  |
-|13 | 5/2| Project presentations (1) |  |  |  |  |
+| | 4/11|  |  |  |  |   |
+| | 4/13 | Assignment 2 presentations |  |  |   |  |
+|10 | 4/18| Broadcast media |  | Jupyter | Copyright and content rights  | Xiao |
+| | 4/20|  |  |   | |  |  
+|11 | 4/25| Sharing econonmy  | Trust |  |  Monetization | |  
+| | 4/27| |  |   |  |  
+|12 | 5/2| Project presentations (1) |  |  |  |  |
 | | 5/4| Project presentations (2)  |   |  |   |  |
-|14 | 5/9| No Class: CHI 2017  |  |  |  |  | 
-
+| | 5/9| No Class: CHI 2017  |  |  |  |  | 
 
 ## Class Requirements
 
