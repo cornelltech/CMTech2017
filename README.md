@@ -53,8 +53,8 @@ This is the week-by-week plan:
 | Spring Break |
 | | 4/11|  |  |  |  |   |
 | | 4/13 | Assignment 2 presentations |  |  |   |  |
-|10 | 4/18| Broadcast media |  | Jupyter | Copyright and content rights  | Xiao |
-| | 4/20|  |  |   | |  |  
+|10 | 4/18| Live media |  | Jupyter | Copyright and content rights  | Xiao |
+| | 4/20|  |  |   | | Funda Kivran-Swaine (Facebook live) |  
 |11 | 4/25| Sharing econonmy  | Trust |  |  Monetization | |  
 | | 4/27| |  |   |  |  
 |12 | 5/2| Project presentations (1) |  |  |  |  |
@@ -64,9 +64,15 @@ This is the week-by-week plan:
 ## Class Requirements
 
 ### Quizzes, Readings and Services
+The quizzes will have three components: the reading, the services, and last week's material.
+
 Each week (see schedule below) you will be asked to sign up, use, and analyze a small set of services that correspond to the week’s topic. You have to sign up and use these services. You will be asked to consider these services in the quizzes.
 
-The reading materials, mostly papers from the field of social computing, are listed in the week-to-week schedule. All the readings are required. There will be weekly quizzes that will cover both the reading and the previous week's material. You may be asked, for example, to reason about each reading, provide critique and extensions, and comment about its significance in the context of connective media technology. Grades are assigned per reading. Your lowest quiz grade will not be counted; this grade may include submissions that you missed (no questions asked). 
+The reading materials, mostly papers from the field of social computing, are listed in the week-to-week schedule. All the readings are required. The weekly quizzes will cover the readings; you may be asked, for example, to reason about each reading, provide critique and extensions, and comment about its significance in the context of connective media technology. 
+
+Finally, quizzes will often include questions related to the previous week's material.
+
+Grades are assigned per reading. Your *one* lowest quiz grade will not be counted; this grade may include submissions that you missed (no questions asked). 
 
 ### Assignments
 There are three technical assignments (group projects) to be submitted throughout the semester: a social data explorer; connective media design; and data analysis. The details of the assignments are provided separately. 
