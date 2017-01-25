@@ -66,7 +66,7 @@ This is the week-by-week plan:
 ### Quizzes, Readings and Services
 The quizzes will have three components: the reading, the services, and last week's material.
 
-Each week (see schedule below) you will be asked to sign up, use, and analyze a small set of services that correspond to the week’s topic. You have to sign up and use these services. You will be asked to consider these services in the quizzes.
+Each week (see schedule below) you will be asked to sign up, use, and analyze a small set of services that correspond to the week’s topic. You have to sign up, install, login, and significantly use *every one* of these services every week. You will be asked to consider these services and your experience with them in the quizzes. 
 
 The reading materials, mostly papers from the field of social computing, are listed in the week-to-week schedule. All the readings are required. The weekly quizzes will cover the readings; you may be asked, for example, to reason about each reading, provide critique and extensions, and comment about its significance in the context of connective media technology. 
 
