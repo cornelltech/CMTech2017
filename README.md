@@ -49,7 +49,7 @@ This is the week-by-week plan:
 | | 3/21|  |  |  |  |   |
 |8 | 3/23| Social News | Filter Bubble |  | Measurements and Metrics |  |
 | | 3/28|  |  |  |  |   |
-|9 | 3/30|  | Media sharing | Feedback | Recommender Systems |   |
+|9 | 3/30|  Media sharing | | Feedback | Recommender Systems |   |
 |XX Spring Break XX |
 | | 4/11|  |  |  |  |   |
 |X | 4/13 | Assignment 2 presentations |  |  |   |  |
