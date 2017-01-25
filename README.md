@@ -49,10 +49,10 @@ This is the week-by-week plan:
 | | 3/21|  |  |  |  |   |
 |8 | 3/23| Social News | Filter Bubble |  | Measurements and Metrics |  |
 | | 3/28|  |  |  |  |   |
-|9 | 3/30|  | Media sharing | Feedback | Copyright and content rights |   |
+|9 | 3/30|  | Media sharing | Feedback | Recommender Systems |   |
 | Spring Break |
 | | 4/11 | Assignment 2 presentations |  |  |   |  |
-|10 | 4/13| Broadcast media |  | Jupyter | Recommender Systems | Xiao |
+|10 | 4/13| Broadcast media |  | Jupyter | Copyright and content rights  | Xiao |
 |11 | 4/18|  |  |   | |  |  
 |12 | 4/20| Sharing econonmy  | Trust |  |  Monetization | |  
 |12 | 4/25| |  |   |  |  
