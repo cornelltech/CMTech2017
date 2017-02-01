@@ -38,13 +38,13 @@ This is the week-by-week plan:
 | | 2/9| |  |  |  | [Mike Massimi](http://www.mikemassimi.com/) (Slack) |
 |3 | 2/14| Communities and Forums | Reputation |  | | [Raz Schwartz](http://razschwartz.net/) (Oculus)  |
 | | 2/16| |  |  |  | [Aaron Halfaker](http://www-users.cs.umn.edu/~halfak/) (Wikimedia) |
-|4 | 2/21| Collaborative Systems | Motivation | APIs 101 |   | |
-| | 2/23|  | |  | | | 
+|X | 2/21|  No class: February Break | |  | | | 
+|4 | 2/23| Collaborative Systems | Motivation | APIs 101 |   | |
 |X | 2/28| No class: CSCW 2017 | |  |  |  |
-|5 | 3/2|  Social Awareness Streams | Identity |  |  |  |
-| | 3/7|  | |   |  |  |
-|6 | 3/9| Anoymous Systems | Anonymity |  |  |  |
-| | 3/14| | |  |  |  |
+| | 3/5|  | |   |  |  |
+|5 | 3/7|  Social Awareness Streams / Social Networks | Identity |  |  |  |
+| | 3/9| | |  |  |  |
+|6 | 3/14| Anoymous Systems | Anonymity |  |  |  |
 |7 | 3/16| Crowdsourcing | | Using AMT  |  | Xiao |
 | | 3/21|  |  |  |  |   |
 |8 | 3/23| Social News | Filter Bubble |  | Measurements and Metrics |  |
