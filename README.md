@@ -55,7 +55,7 @@ This is the week-by-week plan:
 |X | 4/13 | Assignment 2 presentations |  |  |   |  |
 |10 | 4/18| Live media |  |  | Copyright and content rights  | Leland Rechis |
 | | 4/20|  |  |   | | Funda Kivran-Swaine (Facebook Live) |  
-|11 | 4/25| Sharing econonmy  | Trust |  |  Monetization | |  
+|11 | 4/25| Sharing and awareness economy  | Trust |  |  Monetization | |  
 | | 4/27| |  |   |  |  
 |12 | 5/2| Project presentations (1) |  |  |  |  |
 | | 5/4| Project presentations (2)  |   |  |   |  |
