@@ -32,10 +32,10 @@ This is the week-by-week plan:
 | Week | Date | Title | Theory | Tech | Special Topic | Guest |
 |:-----|:-----|:------|:----------|:------|:-----------|:-------|
 |0 | 1/26 ([slides](https://confluence.cornell.edu/download/attachments/340913430/week%200-%20class%201%20overview.pdf))|Intro to Everything | | | | |
-|1 | 1/31| 1-1 Communication Systems | Network Effects, Presence | O-Auth | | [Leila Takayama](http://www.leilatakayama.org/wp/) (UCSC) |
+|1 | 1/31| 1-1 Communication Systems | Network Effects, Presence | | | [Leila Takayama](http://www.leilatakayama.org/wp/) (UCSC) |
 | | 2/2| |  |  |  |  |
 |2 | 2/7| Groupware |  |  |  |  |
-| | 2/9| |  |  |  | [Mike Massimi](http://www.mikemassimi.com/) (Slack) |
+| | 2/9| |  | Intro to O-Auth |  | [Mike Massimi](http://www.mikemassimi.com/) (Slack) |
 |3 | 2/14| Communities and Forums | Reputation |  | | [Raz Schwartz](http://razschwartz.net/) (Oculus)  |
 | | 2/16| |  |  |  | [Aaron Halfaker](http://www-users.cs.umn.edu/~halfak/) (Wikimedia) |
 |X | 2/21|  No class: February Break | |  | | | 
