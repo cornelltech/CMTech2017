@@ -51,7 +51,7 @@ This is the week-by-week plan:
 | | 3/28|  |  |  |  |   |
 |9 | 3/30|  Media sharing | | Feedback | Recommender Systems |   |
 |XX Spring Break XX |
-| | 4/11|  |  | Using Jupyter |  |  Xiao |
+| | 4/11|  |  | Using Jupyter |  |  Xiao; Henriette Cramer (Spotify) |
 |X | 4/13 | Assignment 2 presentations |  |  |   |  |
 |10 | 4/18| Live media |  |  | Copyright and content rights  | Leland Rechis |
 | | 4/20|  |  |   | | Funda Kivran-Swaine (Facebook Live) |  
