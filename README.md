@@ -36,7 +36,7 @@ This is the week-by-week plan:
 | | 2/2| |  |  |  |  |
 |2 | 2/7 ([slides](https://confluence.cornell.edu/download/attachments/340913430/week%202%20-%20class%201%20groups.pdf))| Groupware |  |  |  |  |
 | | 2/9| |  | Intro to O-Auth |  | [Mike Massimi](http://www.mikemassimi.com/) (Slack) |
-|3 | 2/14| Communities and Forums | Reputation |  | | [Raz Schwartz](http://razschwartz.net/) (Oculus)  |
+|3 | 2/14 ([slides](https://confluence.cornell.edu/download/attachments/340913430/week%203%20-%20class%201%20communities.pdf)) | Communities and Forums | Reputation |  | | [Raz Schwartz](http://razschwartz.net/) (Oculus)  |
 | | 2/16| |  |  |  | [Aaron Halfaker](http://www-users.cs.umn.edu/~halfak/) (Wikimedia) |
 |X | 2/21|  No class: February Break | |  | | | 
 |4 | 2/23| Collaborative Systems | Motivation | APIs 101 |   | |
