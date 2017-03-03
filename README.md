@@ -41,7 +41,7 @@ This is the week-by-week plan:
 |X | 2/21|  No class: February Break | |  | | | 
 |4 | 2/23| Collaborative Systems | Motivation | APIs 101 |   | |
 |X | 2/28| No class: CSCW 2017 | |  |  |  |
-| | 3/5|  | |   |  |  |
+| | 3/2|  | |   |  |  |
 |5 | 3/7|  Social Awareness Streams / Social Networks | Identity |  |  |  |
 | | 3/9| | |  |  |  |
 |6 | 3/14| Anoymous Systems | Anonymity |  |  |  |
