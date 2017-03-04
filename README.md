@@ -39,7 +39,7 @@ This is the week-by-week plan:
 |3 | 2/14 ([slides](https://confluence.cornell.edu/download/attachments/340913430/week%203%20-%20class%201%20communities.pdf)) | Communities and Forums | Reputation |  | | [Raz Schwartz](http://razschwartz.net/) (Oculus)  |
 | | 2/16| |  |  |  | [Aaron Halfaker](http://www-users.cs.umn.edu/~halfak/) (Wikimedia) |
 |X | 2/21|  No class: February Break | |  | | | 
-|4 | 2/23| Collaborative Systems | Motivation | APIs 101 |   | |
+|4 | 2/23 ([slides](https://confluence.cornell.edu/download/attachments/340913430/week%204%20-%20creators.pdf))| Collaborative Systems | Motivation | [APIs 101](https://confluence.cornell.edu/download/attachments/340913430/Week%204%20-%20O-Auth.pdf) |   | |
 |X | 2/28| No class: CSCW 2017 | |  |  |  |
 | | 3/2|  | |   |  |  |
 |5 | 3/7|  Social Awareness Streams / Social Networks | Identity |  |  |  |
