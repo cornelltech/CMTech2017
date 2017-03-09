@@ -46,7 +46,7 @@ This is the week-by-week plan:
 | | 3/9| | |  |  |  |
 |6 | 3/14| Anoymous Systems | Anonymity |  |  |  |
 |7 | 3/16| Crowdsourcing | | Using AMT  |  | Xiao |
-| | 3/21|  |  |  |  |   |
+| | 3/21|  |  |  |  | Mounia Lalmas (Yahoo)  |
 |8 | 3/23| Social News | Filter Bubble |  | Measurements and Metrics |  |
 | | 3/28|  |  |  |  |   |
 |9 | 3/30|  Media sharing | | Feedback | Recommender Systems |   |
