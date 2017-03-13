@@ -42,7 +42,7 @@ This is the week-by-week plan:
 |4 | 2/23 ([slides](https://confluence.cornell.edu/download/attachments/340913430/week%204%20-%20creators.pdf))| Collaborative Systems | Motivation | [APIs 101](https://confluence.cornell.edu/download/attachments/340913430/Week%204%20-%20O-Auth.pdf) |   | |
 |X | 2/28| No class: CSCW 2017 | |  |  |  |
 | | 3/2|  | |   |  |  |
-|5 | 3/7|  Social Awareness Streams / Social Networks | Identity |  |  |  |
+|5 | 3/7 ([slides](https://confluence.cornell.edu/download/attachments/340913430/week%205%20SAS.pdf))|  Social Awareness Streams / Social Networks | Identity |  |  |  |
 | | 3/9| | |  |  |  |
 |6 | 3/14| Anoymous Systems | Anonymity |  |  |  |
 |7 | 3/16| Crowdsourcing | | Using AMT  |  | Xiao |
