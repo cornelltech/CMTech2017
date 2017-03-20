@@ -44,7 +44,7 @@ This is the week-by-week plan:
 | | 3/2|  | |   |  |  |
 |5 | 3/7 ([slides](https://confluence.cornell.edu/download/attachments/340913430/week%205%20SAS.pdf))|  Social Awareness Streams / Social Networks | Identity |  |  |  |
 | | 3/9| | |  |  |  |
-|6 | 3/14| Anoymous Systems | Anonymity |  |  |  |
+|6 | 3/14 ([slides](https://confluence.cornell.edu/download/attachments/340913430/week%206%20-%20anoymous.pdf))| Anoymous Systems | Anonymity |  |  |  |
 |7 | 3/16| Crowdsourcing | | Using AMT  |  | Xiao |
 | | 3/21|  |  |  |  | [Mounia Lalmas](http://www.dcs.gla.ac.uk/~mounia/) (Yahoo)  |
 |8 | 3/23| Social News | Filter Bubble |  | Measurements and Metrics |  |
