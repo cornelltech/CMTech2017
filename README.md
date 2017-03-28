@@ -46,7 +46,7 @@ This is the week-by-week plan:
 | | 3/9| | |  |  |  |
 | | 3/14| SNOW DAY | |  |  |  |
 |6 | 3/16 ([slides](https://confluence.cornell.edu/download/attachments/340913430/week%206%20-%20anoymous.pdf))| Anoymous Systems | Anonymity |  |  |  |
-| | 3/21|  |  |  | Measurements and Metrics  | [Mounia Lalmas](http://www.dcs.gla.ac.uk/~mounia/) (Yahoo)  |
+| | 3/21|  |  |  | Measurements and Metrics  | [Mounia Lalmas](http://www.dcs.gla.ac.uk/~mounia/) (Yahoo) ([slides](https://confluence.cornell.edu/download/attachments/340913430/Mounia%20CornellTech.pdf)) |
 |7 | 3/23| Crowdsourcing | | Using AMT  |  | Xiao |
 | | 3/28|  |  |  | |  |
 |8 | 3/30| Social News | Filter Bubble |  | |  |
