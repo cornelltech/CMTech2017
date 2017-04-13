@@ -49,7 +49,7 @@ This is the week-by-week plan:
 | | 3/21|  |  |  | Measurements and Metrics  | [Mounia Lalmas](http://www.dcs.gla.ac.uk/~mounia/) (Yahoo) ([slides](https://confluence.cornell.edu/download/attachments/340913430/Mounia%20CornellTech.pdf)) |
 |7 | 3/23 ([slides](https://confluence.cornell.edu/download/attachments/340913430/week%207%20crowdsourcing.pdf))| Crowdsourcing | | Using AMT  |  | Xiao ([results](https://confluence.cornell.edu/download/attachments/340913430/draw-a-t.zip)) |
 | | 3/28|  |  |  | |  |
-|8 | 3/30| Social News | Filter Bubble |  | |  |
+|8 | 3/30 ([slides](https://confluence.cornell.edu/download/attachments/340913430/week%208%20social%20news.pdf))| Social News | Filter Bubble |  | |  |
 |XX Spring Break XX |
 |9 | 4/11 | Media sharing | | | Recommender Systems | [Henriette Cramer](https://hcramer.wordpress.com/) (Spotify)  |
 |X | 4/13 | Assignment 2 presentations |  |  |   |  |
