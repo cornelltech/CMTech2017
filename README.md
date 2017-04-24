@@ -53,10 +53,10 @@ This is the week-by-week plan:
 |XX Spring Break XX |
 |9 | 4/11 | Media sharing | | | Recommender Systems | [Henriette Cramer](https://hcramer.wordpress.com/) (Spotify)  |
 |X | 4/13 | Assignment 2 presentations |  |  |   |  |
-|10 | 4/18| Live media |  |  | Copyright and content rights  | Leland Rechis |
-| | 4/20|  |  |   | Using Jupyter | Funda Kivran-Swaine (Facebook Live) |  
-|11 | 4/25|   | |  |  Monetization | |  
-| | 4/27| | Sharing and awareness economy | Trust   | Judd Antin (Airbnb) |  
+|10 | 4/18| Live media |  |  |   | Leland Rechis |
+| | 4/20|  |  |   |  | Funda Kivran-Swaine (Facebook Live) |  
+|11 | 4/25|   | |  |  Copyright and content rights | |  
+| | 4/27| | Sharing and awareness economy | Monetization | Judd Antin (Airbnb) |  
 |12 | 5/2| Project presentations (1)  |  |  |  |  |
 | | 5/4|  | Project presentations (2)   |  |   |  |
 |13 | 5/9|  Summary |  |  |  |  | 
