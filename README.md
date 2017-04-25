@@ -51,7 +51,7 @@ This is the week-by-week plan:
 | | 3/28|  |  |  | |  |
 |8 | 3/30 ([slides](https://confluence.cornell.edu/download/attachments/340913430/week%208%20social%20news.pdf))| Social News | Filter Bubble |  | |  |
 |XX Spring Break XX |
-|9 | 4/11 | Media sharing | | | Recommender Systems | [Henriette Cramer](https://hcramer.wordpress.com/) (Spotify)  |
+|9 | 4/11 ([slides](https://confluence.cornell.edu/download/attachments/340913430/week%209%20media%20rec%20systems%20distribution.pdf))| Media sharing | | | Recommender Systems | [Henriette Cramer](https://hcramer.wordpress.com/) (Spotify)  |
 |X | 4/13 | Assignment 2 presentations |  |  |   |  |
 |10 | 4/18| Live media |  |  |   | Leland Rechis |
 | | 4/20|  |  |   |  | Funda Kivran-Swaine (Facebook Live) |  
