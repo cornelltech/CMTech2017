@@ -55,8 +55,8 @@ This is the week-by-week plan:
 |X | 4/13 | Assignment 2 presentations |  |  |   |  |
 |10 | 4/18| Live media |  |  |   | Leland Rechis |
 | | 4/20|  |  |   |  | Funda Kivran-Swaine (Facebook Live) |  
-|11 | 4/25|   | |  |  Copyright and content rights | |  
-| | 4/27| | Sharing and awareness economy | Monetization | Judd Antin (Airbnb) |  
+|11 | 4/25| Sharing and awareness economy  | |  |  Copyright and content rights | |  
+| | 4/27| |  | Monetization | Judd Antin (Airbnb) |  
 |12 | 5/2| Project presentations (1)  |  |  |  |  |
 | | 5/4|  | Project presentations (2)   |  |   |  |
 |13 | 5/9|  Summary |  |  |  |  | 
