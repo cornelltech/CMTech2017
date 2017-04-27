@@ -53,7 +53,7 @@ This is the week-by-week plan:
 |XX Spring Break XX |
 |9 | 4/11 ([slides](https://confluence.cornell.edu/download/attachments/340913430/week%209%20media%20rec%20systems%20distribution.pdf))| Media sharing | | | Recommender Systems | [Henriette Cramer](https://hcramer.wordpress.com/) (Spotify)  |
 |X | 4/13 | Assignment 2 presentations |  |  |   |  |
-|10 | 4/18| Live media |  |  |   | Leland Rechis |
+|10 | 4/18 ([slides](https://confluence.cornell.edu/download/attachments/340913430/week%2010%20media%20and%20ip.pdf))| Live media |  |  |   | Leland Rechis |
 | | 4/20|  |  |   |  | Funda Kivran-Swaine (Facebook Live) |  
 |11 | 4/25| Sharing and awareness economy  | |  |  Copyright and content rights | |  
 | | 4/27| |  | Monetization | Judd Antin (Airbnb) |  
